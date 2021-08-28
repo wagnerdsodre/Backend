@@ -1,2 +1,2 @@
 # Backend
-Desenvolvimento de Backend com VueJS - PostgreSQL, MondoDb e melhores praticas
+Desenvolvimento de Backend com VueJS - PostgreSQL, MondoDb e melhores práticas
